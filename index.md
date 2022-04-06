@@ -1,7 +1,7 @@
 I am a mathematician with research interests in algebraic topology, homological algebra and category theory. I completed my Ph.D. at the University of Sheffield under the supervision of [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/). I am currently a teaching fellow at the University of Leeds.
 
 
-## Reserach
+## Research
 
 Here a list of my publications and preprints. This information is also available at my [google scholar page](https://scholar.google.com/citations?hl=en&user=Z_eOJIIAAAAJ).
 
