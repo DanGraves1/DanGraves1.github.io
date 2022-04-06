@@ -1,3 +1,8 @@
+I am a mathematician with research interests in algebraic topology, homological algebra and category theory. I completed my Ph.D. at the University of Sheffield under the supervision of [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/). I am currently a teaching fellow at the University of Leeds.
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DanGraves1/DanGraves1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
