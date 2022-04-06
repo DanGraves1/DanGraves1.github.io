@@ -16,6 +16,11 @@ Here a list of my publications and preprints. This information is also available
 1. _A comparison map for symmetric homology and gamma homology_. [arXiv](https://arxiv.org/abs/2005.07963).
 2. _Composing PROBs_. [arXiv](https://arxiv.org/pdf/2105.13166).
 
+### Thesis
+_Functor homology for augmented algebras_. Available on the White Rose eTheses website [here](http://etheses.whiterose.ac.uk/26243/).
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DanGraves1/DanGraves1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
