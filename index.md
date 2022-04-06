@@ -1,7 +1,20 @@
 I am a mathematician with research interests in algebraic topology, homological algebra and category theory. I completed my Ph.D. at the University of Sheffield under the supervision of [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/). I am currently a teaching fellow at the University of Leeds.
 
 
+## Reserach
 
+Here a list of my publications and preprints. This information is also available at my [google scholar page](https://scholar.google.com/citations?hl=en&user=Z_eOJIIAAAAJ).
+
+### Papers
+
+1. _PROPs for involutive monoids and involutive bimonoids_, Theory and Applications of Categories, Vol. 35, 2020, No.42, pp 1564-1575. [Journal](http://www.tac.mta.ca/tac/volumes/35/42/35-42abs.html), [arXiv](https://arxiv.org/abs/2005.07968).
+2. _Hyperoctahedral homology for involutive algebras_, Homology, Homotopy and Applications, Vol. 24 (1), 2022, pp 1-26. [Journal](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0024/0001/a001/index.php), [arXiv](https://arxiv.org/abs/2011.03427).
+3. _E-infinity structure in hyperoctahedral homology_, to appear in Homology, Homotopy and Applications. [arXiv](https://arxiv.org/pdf/2108.05154).
+
+### Preprints
+
+1. _A comparison map for symmetric homology and gamma homology_. [arXiv](https://arxiv.org/abs/2005.07963).
+2. _Composing PROBs_. [arXiv](https://arxiv.org/pdf/2105.13166).
 
 ## Welcome to GitHub Pages
 
