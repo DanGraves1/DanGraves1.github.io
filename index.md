@@ -21,6 +21,30 @@ _Functor homology for augmented algebras_. Available on the White Rose eTheses w
 
 
 
+## Conferences
+
+### Organized
+I have co-organized two early career topology research conferences at the University of Sheffield: 
+
+1. EL:ECTRIC in 2017 with Gemma Halliwell, details of which can be found [here](http://alg-top.group.shef.ac.uk/conf.html)
+2. ECTR in 2019 with [Jordan Williamson](https://sites.google.com/view/jordanwilliamson/home), details of which can be found [here](http://alg-top.group.shef.ac.uk/ectr.html).
+
+
+### Attended
+Here is a list of conferences I have attended.
+
+- [Transpennine Topology Triangle](http://sarah-whitehouse.staff.shef.ac.uk/ttt/TTTonWWW.htm) meetings, 2015 onwards.
+- ECSTATIC, Imperial College, 2016.
+- Young Topologists Meeting, Copenhagen 2016 and Stockholm 2017.
+- [US Talbot workshop](https://math.mit.edu/events/talbot/index.php?year=2017) on obstructruction theory for structured ring spectra, Gooding, Idaho, 2017.
+- British Topology Meeting, Milton Keynes 2018 and Warwick 2019.
+- Homotopy Harnessing Higher Structures, Isaac Newton Institute, Cambridge, 2018.
+- OATS (Online algebraic topology seminar), 2020.
+- Higher Homotopical Structures (online), CRM, Barcelona, 2021.
+- TopFlavours, Warwick, 2021.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DanGraves1/DanGraves1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
