@@ -63,6 +63,12 @@ Here is a list of my teaching at the University of Sheffield, in no particular o
 - Year 12 and Year 13 A-level enrichment classes and STEP classes.
 - Dissertation Support for M.Sc. Statistics students.
 
+### University of Leeds
+
+- MATH1005: Core Mathematics. Tutorial demonstrator and marker.
+- MATH1515: Interest Rates and Cashflow Modelling. Tutorial demonstrator and marker.
+- I have been a mentor in a scheme designed to help PhD students who are new to teaching.
+
 
 
 
