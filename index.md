@@ -1,4 +1,4 @@
-I am a mathematician with research interests in algebraic topology, homological algebra and category theory. I completed my Ph.D. at the University of Sheffield under the supervision of [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/). I am currently a teaching fellow at the University of Leeds.
+I am a mathematician with research interests in algebraic topology, homological algebra and category theory. I am currently a teaching fellow at the University of Leeds.
 
 
 ## Research
@@ -17,7 +17,7 @@ Here a list of my publications and preprints. This information is also available
 2. _Composing PROBs_. [arXiv](https://arxiv.org/pdf/2105.13166).
 
 ### Thesis
-_Functor homology for augmented algebras_. Available on the White Rose eTheses website [here](http://etheses.whiterose.ac.uk/26243/).
+_Functor homology for augmented algebras_. Available on the White Rose eTheses website [here](http://etheses.whiterose.ac.uk/26243/). Supervised by [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/).
 
 
 
@@ -40,8 +40,10 @@ Here is a list of conferences I have attended.
 - British Topology Meeting, Milton Keynes 2018 and Warwick 2019.
 - Homotopy Harnessing Higher Structures, Isaac Newton Institute, Cambridge, 2018.
 - OATS (Online algebraic topology seminar), 2020.
-- Higher Homotopical Structures (online), CRM, Barcelona, 2021.
+- Higher Homotopical Structures opening workshop (online), CRM, Barcelona, 2021.
 - TopFlavours, Warwick, 2021.
+
+
 
 
 
