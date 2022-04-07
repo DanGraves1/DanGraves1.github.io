@@ -21,6 +21,26 @@ _Functor homology for augmented algebras_. Available on the White Rose eTheses w
 
 
 
+## Teaching
+
+### University of Sheffield
+Here is a list of my teaching at the University of Sheffield, in no particular order. The classes in list come in a range of flavours: lectures, problems classes, flipped learning classes, outreach classes and online assessment.
+
+- Lecturer for MAS003: Foundation mathematics. As part of my role as lecturer I developed a new set of lecture notes for part of the course as well as being responsible for the online tests using [STACK](https://moodle.org/plugins/qtype_stack). I have also acted as tutorial demonstrator for this module.
+- Lecturer for MAS248. This is a mathematics module for second year undergraduates in chemical engineering. As part of my role I set the exam and mark scheme for this course, with guidance from [Dr. Julia Rees](http://www.jrees.staff.shef.ac.uk/).
+- MAS221: Analysis. I have been a tutorial demonstrator, marker and exam marker for this module. I have also delivered some lectures as cover. I have written and coded online tests for this module in both AiM (Assessment in Mathematics) and STACK.
+- MAS220: Algebra. Tutorial demonstrator and marker. I have also written and coded online tests in AiM for this module.
+- MAS114: Numbers and Groups. Tutorial demonstrator and marker.
+- MAS241 tutorial demonstrator. This is a second year mathematics module for second year undergraduates in electrical engineering.
+- Year 12 and Year 13 A-level enrichment classes and STEP classes.
+- Dissertation Support for M.Sc. Statistics students.
+
+### University of Leeds
+
+- MATH1005: Core Mathematics. Tutorial demonstrator and marker.
+- MATH1515: Interest Rates and Cashflow Modelling. Tutorial demonstrator and marker.
+- I have been a mentor in a scheme designed to help PhD students who are new to teaching.
+
 ## Conferences
 
 ### Organized
@@ -48,26 +68,33 @@ Here is a list of conferences I have attended.
 - Referee for European Journal of Mathematics
 - Reviewer for zbMath Open
 - Reviewer for Mathematical Reviews (MathSciNet).
+- I created and maintained (2017-2020) the Sheffield Algebraic Topology [website](https://alg-top.group.shef.ac.uk/).
 
-## Teaching
+## Seminars and reading groups
+I enjoy taking part in seminars and reading groups. Here are some that I have been involved in.
 
-### University of Sheffield
-Here is a list of my teaching at the University of Sheffield, in no particular order. The classes in list come in a range of flavours: lectures, problems classes, flipped learning classes, outreach classes and online assessment.
+### Organized
 
-- Lecturer for MAS003: Foundation mathematics. As part of my role as lecturer I developed a new set of lecture notes for part of the course as well as being responsible for the online tests using [STACK](https://moodle.org/plugins/qtype_stack). I have also acted as tutorial demonstrator for this module.
-- Lecturer for MAS248. This is a mathematics module for second year undergraduates in chemical engineering. As part of my role I set the exam and mark scheme for this course, with guidance from [Dr. Julia Rees](http://www.jrees.staff.shef.ac.uk/).
-- MAS221: Analysis. I have been a tutorial demonstrator, marker and exam marker for this module. I have also delivered some lectures as cover. I have written and coded online tests for this module in both AiM (Assessment in Mathematics) and STACK.
-- MAS220: Algebra. Tutorial demonstrator and marker. I have also written and coded online tests in AiM for this module.
-- MAS114: Numbers and Groups. Tutorial demonstrator and marker.
-- MAS241 tutorial demonstrator. This is a second year mathematics module for second year undergraduates in electrical engineering.
-- Year 12 and Year 13 A-level enrichment classes and STEP classes.
-- Dissertation Support for M.Sc. Statistics students.
+- Throughout 2017 and 2018 I co-organized the University of Sheffield Student Seminar series with Jake Shipley.
+- In 2019, I co-organized a reading group on Topological Hochschild Homology with James Brotherston.
 
-### University of Leeds
+### Talks given in reading groups
 
-- MATH1005: Core Mathematics. Tutorial demonstrator and marker.
-- MATH1515: Interest Rates and Cashflow Modelling. Tutorial demonstrator and marker.
-- I have been a mentor in a scheme designed to help PhD students who are new to teaching.
+- _Phylogenetic trees and cancer evolution_, Applied Topology reading group 2015.
+- _Representations of quivers and Gabriel's theorem_, Pure maths postgraduate seminar, 2015.
+- _Introduction to vector bundles_, Topological K-theory reading group, 2016.
+- _Knots and DNA_, Student seminar, 2016.
+- _Formal group laws and Lazard's theorem_, Chromatic homotopy theory reading group, 2017.
+- _A simplicial view of algebraic topology_, Pure maths postgraduate seminar, 2017.
+- _Hochschild homology of enriched categories_, Magnitude homology reading group, 2018.
+- _Magnitude homology is Hochschild homology_, Magnitude homology reading group, 2018.
+- _Machine learning and the World Cup_, Student seminar, 2018.
+- _Hochschild, Shukla and cyclic homology_, Topological Hochschild homology reading group, 2019.
+- _Online tests_, Teaching and Learning seminar, 2019.
+- _Morita equivalences_, Derived commutative algebra reading group, 2019.
+- _The cacti operad_, String topology reading group, 2020.
+- _All Q'd up_, Condensed maths reading group, 2022.
+- _Spaces, condensed sets and condensed abelian groups_, Condensed maths reading group, 2022.
 
 
 
