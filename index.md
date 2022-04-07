@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="OxdmuHsGKH6vKoZM6Xm-99E3G9at3bhxe1rqQfwmDJw" />
+
 I am a mathematician with research interests in algebraic topology, homological algebra and category theory. I am currently a teaching fellow at the University of Leeds.
 
 
