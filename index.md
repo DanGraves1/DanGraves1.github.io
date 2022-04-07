@@ -41,7 +41,7 @@ Here is a list of my teaching at the University of Sheffield, in no particular o
 - MATH1515: Interest Rates and Cashflow Modelling. Tutorial demonstrator and marker.
 - I have been a mentor in a scheme designed to help PhD students who are new to teaching.
 
-## Conferences
+## Conferences and research talks
 
 ### Organized
 I have co-organized two early career topology research conferences at the University of Sheffield: 
@@ -62,6 +62,14 @@ Here is a list of conferences I have attended.
 - OATS (Online algebraic topology seminar), 2020.
 - Higher Homotopical Structures opening workshop (online), CRM, Barcelona, 2021.
 - TopFlavours, Warwick, 2021.
+
+### Research talks
+
+- _Functor homology_, ECSTATIC, Imperial College, 2016.
+- _Now that's what I call...homology theories for algebras!_, University of Sheffield topology seminar, 2019.
+- _Comparing symmetric homology and gamma homology_, Transpennine Topology Triangle, Warwick, 2020.
+-  _Distributive laws, double categories and PROPs for involutive bimonoids_, MiaowMiaow online double category seminar, 2021,
+-  _Hyperoctahedral homology_, TopFlavours online, Warwick, 2021.
 
 ## Service Work
 
