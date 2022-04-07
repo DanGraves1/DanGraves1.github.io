@@ -78,6 +78,15 @@ Here is a list of conferences I have attended.
 - Reviewer for Mathematical Reviews (MathSciNet).
 - I created and maintained (2017-2020) the Sheffield Algebraic Topology [website](https://alg-top.group.shef.ac.uk/).
 
+## Outreach activities
+
+- Student assisstant at Sheffield PopMaths quiz 2016, 2017 and 2019.
+- Team member for Year 12 STEM fair, 2017.
+- Open Day stall team member, 2018 and 2019.
+- Submitted puzzles for BBC4's _Today_ programme, which were used on air and in the subsequent book, 2018.
+- _Discovery Night_ stall team member for Key Stage 2 students, 2019.
+- UKMT Maths Olympiad marking, 2019. 
+
 ## Seminars and reading groups
 I enjoy taking part in seminars and reading groups. Here are some that I have been involved in.
 
