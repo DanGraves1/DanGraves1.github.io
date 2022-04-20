@@ -49,18 +49,18 @@ Here is a list of my teaching at the University of Sheffield, in no particular o
 ### Organized
 I have co-organized two early career topology research conferences at the University of Sheffield: 
 
-1. EL:ECTRIC in 2017 with Gemma Halliwell, details of which can be found [here](http://alg-top.group.shef.ac.uk/conf.html)
+1. EL:ECTRIC in 2017 with Gemma Halliwell, details of which can be found [here](http://alg-top.group.shef.ac.uk/conf.html).
 2. ECTR in 2019 with [Jordan Williamson](https://sites.google.com/view/jordanwilliamson/home), details of which can be found [here](http://alg-top.group.shef.ac.uk/ectr.html).
 
 
 ### Attended
-Here is a list of conferences I have attended.
+Here is a list of conferences I have attended:
 
 - [Transpennine Topology Triangle](http://sarah-whitehouse.staff.shef.ac.uk/ttt/TTTonWWW.htm) meetings, 2015 onwards.
 - ECSTATIC, Imperial College, 2016.
 - Young Topologists Meeting, Copenhagen 2016 and Stockholm 2017.
 - [US Talbot workshop](https://math.mit.edu/events/talbot/index.php?year=2017) on obstructruction theory for structured ring spectra, Gooding, Idaho, 2017.
-- British Topology Meeting, Milton Keynes 2018 and Warwick 2019.
+- British Topology Meeting, Milton Keynes 2018, Warwick 2019, Durham 2022.
 - Homotopy Harnessing Higher Structures, Isaac Newton Institute, Cambridge, 2018.
 - OATS (Online algebraic topology seminar), 2020.
 - Higher Homotopical Structures opening workshop (online), CRM, Barcelona, 2021.
@@ -73,11 +73,12 @@ Here is a list of conferences I have attended.
 - _Comparing symmetric homology and gamma homology_, Transpennine Topology Triangle, Warwick, 2020.
 -  _Distributive laws, double categories and PROPs for involutive bimonoids_, MiaowMiaow online double category seminar, 2021,
 -  _Hyperoctahedral homology_, TopFlavours online, Warwick, 2021.
+-  _What's the hype about hyperoctahedral homology?_, British Topology Meeting, Durham, 2022.
 
 ## Service Work
 
-- Referee for European Journal of Mathematics
-- Reviewer for zbMath Open
+- Referee for European Journal of Mathematics.
+- Reviewer for zbMath Open.
 - Reviewer for Mathematical Reviews (MathSciNet).
 - I created and maintained (2017-2020) the Sheffield Algebraic Topology [website](https://alg-top.group.shef.ac.uk/).
 
