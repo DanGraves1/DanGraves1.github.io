@@ -35,6 +35,7 @@ Here is a list of my teaching at the University of Sheffield, in no particular o
 - MAS220: Algebra. Tutorial demonstrator and marker. I have also written and coded online tests in AiM for this module.
 - MAS114: Numbers and Groups. Tutorial demonstrator and marker.
 - MAS241 tutorial demonstrator. This is a second year mathematics module for second year undergraduates in electrical engineering.
+- MAS279: Career Development Skills. Marker for reflective work.
 - Year 12 and Year 13 A-level enrichment classes and STEP classes.
 - Dissertation Support for M.Sc. Statistics students.
 
