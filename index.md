@@ -42,7 +42,7 @@ Here is a list of my teaching at the University of Sheffield, in no particular o
 ### University of Leeds
 
 - MATH1005: Core Mathematics. Tutorial demonstrator and marker.
-- MATH1515: Interest Rates and Cashflow Modelling. Tutorial demonstrator and marker.
+- MATH1515: Interest Rates and Cashflow Modelling. Tutorial demonstrator, coursework marker and exam marker.
 - I have been a mentor in a scheme designed to help PhD students who are new to teaching.
 
 ## Conferences and research talks
@@ -117,6 +117,7 @@ I enjoy taking part in seminars and reading groups. Here are some that I have be
 - _The cacti operad_, String topology reading group, 2020.
 - _All Q'd up_, Condensed maths reading group, 2022.
 - _Spaces, condensed sets and condensed abelian groups_, Condensed maths reading group, 2022.
+- _From Algebraic Topology to Terrapin Station in three easy steps_, Sheaf seminar, Sheffield, 2022.
 
 
 
