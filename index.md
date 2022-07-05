@@ -5,7 +5,7 @@ I am a mathematician with research interests in algebraic topology, homological 
 
 ## Research
 
-Here a list of my publications and preprints. This information is also available at my [google scholar page](https://scholar.google.com/citations?hl=en&user=Z_eOJIIAAAAJ).
+Here a list of my publications and preprints. This information is also available at my [google scholar page](https://scholar.google.com/citations?hl=en&user=Z_eOJIIAAAAJ) and my ORCiD page [0000-0003-1136-9295](https://orcid.org/0000-0003-1136-9295).
 
 ### Papers
 
