@@ -17,8 +17,7 @@ Here a list of my publications and preprints. This information is also available
 ### Preprints
 
 1. _A comparison map for symmetric homology and gamma homology_. [arXiv](https://arxiv.org/abs/2005.07963).
-2. _Composing PROBs_. [arXiv](https://arxiv.org/abs/2105.13166).
-3. _Reflexive homology_. [arXiv](https://arxiv.org/abs/2204.07985).
+2. _Reflexive homology_. [arXiv](https://arxiv.org/abs/2204.07985).
 
 ### Thesis
 _Functor homology for augmented algebras_. Available on the White Rose eTheses website [here](http://etheses.whiterose.ac.uk/26243/). Supervised by [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/).
