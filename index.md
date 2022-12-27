@@ -18,6 +18,7 @@ Here a list of my publications and preprints. This information is also available
 
 1. _A comparison map for symmetric homology and gamma homology_. [arXiv](https://arxiv.org/abs/2005.07963).
 2. _Reflexive homology_. [arXiv](https://arxiv.org/abs/2204.07985).
+3. _Categorifying equivariant monoids_. [arXiv](https://arxiv.org/abs/2211.03076).
 
 ### Thesis
 _Functor homology for augmented algebras_. Available on the White Rose eTheses website [here](http://etheses.whiterose.ac.uk/26243/). Supervised by [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/).
@@ -25,6 +26,14 @@ _Functor homology for augmented algebras_. Available on the White Rose eTheses w
 
 
 ## Teaching
+
+### University of Leeds
+
+- MATH3017: Calculus in the complex plane. Module leader
+- MATH1005: Core Mathematics. Tutorial demonstrator and marker.
+- MATH1225: Introduction to Geometry. Tutorial demonstrator and marker.
+- MATH1515: Interest Rates and Cashflow Modelling. Tutorial demonstrator, coursework marker and exam marker.
+- I have been a mentor in a scheme designed to help PhD students who are new to teaching.
 
 ### University of Sheffield
 Here is a list of my teaching at the University of Sheffield, in no particular order. The classes in list come in a range of flavours: lectures, problems classes, flipped learning classes, outreach classes and online assessment.
@@ -39,11 +48,7 @@ Here is a list of my teaching at the University of Sheffield, in no particular o
 - Year 12 and Year 13 A-level enrichment classes and STEP classes.
 - Dissertation Support for M.Sc. Statistics students.
 
-### University of Leeds
 
-- MATH1005: Core Mathematics. Tutorial demonstrator and marker.
-- MATH1515: Interest Rates and Cashflow Modelling. Tutorial demonstrator, coursework marker and exam marker.
-- I have been a mentor in a scheme designed to help PhD students who are new to teaching.
 
 ## Conferences and research talks
 
@@ -72,9 +77,10 @@ Here is a list of conferences I have attended:
 - _Functor homology_, ECSTATIC, Imperial College, 2016.
 - _Now that's what I call...homology theories for algebras!_, University of Sheffield topology seminar, 2019.
 - _Comparing symmetric homology and gamma homology_, Transpennine Topology Triangle, Warwick, 2020.
--  _Distributive laws, double categories and PROPs for involutive bimonoids_, MiaowMiaow online double category seminar, 2021,
+-  _Distributive laws, double categories and PROPs for involutive bimonoids_, MiaowMiaow online double category seminar, 2021.
 -  _Hyperoctahedral homology_, TopFlavours online, Warwick, 2021.
 -  _What's the hype about hyperoctahedral homology?_, British Topology Meeting, Durham, 2022.
+-  _A talk on the PROBlem of PROducing PROPer indexing categories for categories of monoids_, University of Sheffield topology seminar, 2022. 
 
 ## Service Work
 
