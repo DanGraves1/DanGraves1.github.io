@@ -29,10 +29,14 @@ _Functor homology for augmented algebras_. Available on the White Rose eTheses w
 
 ### University of Leeds
 
-- MATH3017: Calculus in the complex plane. Module leader
+- MATH3225: Topology. Module leader.
+- MATH1060: Introductory Linear Algebra. Module leader.
+- MATH3017: Calculus in the complex plane. Module leader.
+- MATH1026: Sets, Sequences and Series. Tutorial demonstrator and marker.
 - MATH1005: Core Mathematics. Tutorial demonstrator and marker.
 - MATH1225: Introduction to Geometry. Tutorial demonstrator and marker.
 - MATH1515: Interest Rates and Cashflow Modelling. Tutorial demonstrator, coursework marker and exam marker.
+- MATH3001: Project supervisor. I supervised a group of third year undergraduates investigating the Fibonacci numbers.
 - I have been a mentor in a scheme designed to help PhD students who are new to teaching.
 
 ### University of Sheffield
