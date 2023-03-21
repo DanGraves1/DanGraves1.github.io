@@ -12,7 +12,7 @@ Here a list of my publications and preprints. This information is also available
 1. _PROPs for involutive monoids and involutive bimonoids_, Theory and Applications of Categories, Vol. 35, 2020, No.42, pp 1564-1575. [Journal](http://www.tac.mta.ca/tac/volumes/35/42/35-42abs.html), [arXiv](https://arxiv.org/abs/2005.07968).
 2. _Hyperoctahedral homology for involutive algebras_, Homology, Homotopy and Applications, Vol. 24 (1), 2022, pp 1-26. [Journal](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0024/0001/a001/index.php), [arXiv](https://arxiv.org/abs/2011.03427).
 3. _Composing PROBs_, Theory and Applications of Categories, Vol. 38, 2022, No. 26, pp 1050-1061. [Journal](http://www.tac.mta.ca/tac/volumes/38/26/38-26abs.html), [arXiv](https://arxiv.org/abs/2105.13166).
-4. _E-infinity structure in hyperoctahedral homology_, Homology, Homotopy and Applications, Vol. 25 (1), 2023, pp 1-19. [Journal] (https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0001/a001/index.php), [arXiv](https://arxiv.org/abs/2108.05154).
+4. _E-infinity structure in hyperoctahedral homology_, Homology, Homotopy and Applications, Vol. 25 (1), 2023, pp 1-19. [Journal](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0001/a001/index.php), [arXiv](https://arxiv.org/abs/2108.05154).
 
 ### Preprints
 
