@@ -95,7 +95,7 @@ Here is a list of conferences I have attended:
 
 ## Outreach activities
 
-- Student assisstant at Sheffield PopMaths quiz 2016, 2017 and 2019.
+- Student assistant at Sheffield PopMaths quiz 2016, 2017 and 2019.
 - Team member for Year 12 STEM fair, 2017.
 - Open Day stall team member, 2018 and 2019.
 - Submitted puzzles for BBC4's _Today_ programme, which were used on air and in the subsequent book, 2018.
