@@ -75,6 +75,7 @@ Here is a list of conferences I have attended:
 - OATS (Online algebraic topology seminar), 2020.
 - Higher Homotopical Structures opening workshop (online), CRM, Barcelona, 2021.
 - TopFlavours, Warwick, 2021.
+- A Festival Remembering Victor Snaith: Topology, Number Theory and Interactions, 2023.
 
 ### Research talks
 
