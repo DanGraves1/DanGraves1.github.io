@@ -90,7 +90,7 @@ Here is a list of conferences I have attended:
 
 ## Service Work
 
-- Referee for European Journal of Mathematics.
+- Referee for European Journal of Mathematics and Journal of Pure and Applied Algebra.
 - Reviewer for zbMath Open.
 - Reviewer for Mathematical Reviews (MathSciNet).
 - I created and maintained (2017-2020) the Sheffield Algebraic Topology [website](https://alg-top.group.shef.ac.uk/).
