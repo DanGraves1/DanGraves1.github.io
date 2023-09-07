@@ -70,7 +70,7 @@ Here is a list of conferences I have attended:
 - ECSTATIC, Imperial College, 2016.
 - Young Topologists Meeting, Copenhagen 2016 and Stockholm 2017.
 - [US Talbot workshop](https://math.mit.edu/events/talbot/index.php?year=2017) on obstructruction theory for structured ring spectra, Gooding, Idaho, 2017.
-- British Topology Meeting, Milton Keynes 2018, Warwick 2019, Durham 2022.
+- British Topology Meeting, Milton Keynes 2018, Warwick 2019, Durham 2022, Sheffield 2023.
 - Homotopy Harnessing Higher Structures, Isaac Newton Institute, Cambridge, 2018.
 - OATS (Online algebraic topology seminar), 2020.
 - Higher Homotopical Structures opening workshop (online), CRM, Barcelona, 2021.
@@ -87,6 +87,7 @@ Here is a list of conferences I have attended:
 -  _What's the hype about hyperoctahedral homology?_, British Topology Meeting, Durham, 2022.
 -  _A talk on the PROBlem of PROducing PROPer indexing categories for categories of monoids_, University of Sheffield topology seminar, 2022.
 -  _Categorifying equivariant monoids_, Technische Universität Dresden, 2023.
+-  _Reflections on Reflexive homology_, British Topology Meeting, Sheffield, 2023.
 
 ## Service Work
 
