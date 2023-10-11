@@ -19,6 +19,7 @@ Here a list of my publications and preprints. This information is also available
 
 1. _A comparison map for symmetric homology and gamma homology_. [arXiv](https://arxiv.org/abs/2005.07963).
 2. _Categorifying equivariant monoids_. [arXiv](https://arxiv.org/abs/2211.03076).
+3. _Generalized rook-Brauer algebras and their homology_. [arXiv](https://arxiv.org/abs/2310.06699).
 
 ### Thesis
 _Functor homology for augmented algebras_. Available on the White Rose eTheses website [here](http://etheses.whiterose.ac.uk/26243/). Supervised by [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/).
@@ -27,7 +28,12 @@ _Functor homology for augmented algebras_. Available on the White Rose eTheses w
 
 ## Teaching
 
-### University of Leeds
+### University of Leeds (Lifelong Learning Centre, 2023-)
+
+- LLLC0203: Introduction to Physics. Lecturer.
+- LLLC0197: Introduction to Mathematics. Tutorial demonstrator.
+
+### University of Leeds (School of Mathematics, 2022-2023)
 
 - MATH3225: Topology. Module leader.
 - MATH1060: Introductory Linear Algebra. Module leader.
@@ -39,7 +45,7 @@ _Functor homology for augmented algebras_. Available on the White Rose eTheses w
 - MATH3001: Project supervisor. I supervised a group of third year undergraduates investigating the Fibonacci numbers.
 - I have been a mentor in a scheme designed to help PhD students who are new to teaching.
 
-### University of Sheffield
+### University of Sheffield (SoMaS 2015-2022)
 Here is a list of my teaching at the University of Sheffield, in no particular order. The classes in list come in a range of flavours: lectures, problems classes, flipped learning classes, outreach classes and online assessment.
 
 - Lecturer for MAS003: Foundation mathematics. As part of my role as lecturer I developed a new set of lecture notes for part of the course as well as being responsible for the online tests using [STACK](https://moodle.org/plugins/qtype_stack). I have also acted as tutorial demonstrator for this module.
@@ -87,7 +93,7 @@ Here is a list of conferences I have attended:
 -  _What's the hype about hyperoctahedral homology?_, British Topology Meeting, Durham, 2022.
 -  _A talk on the PROBlem of PROducing PROPer indexing categories for categories of monoids_, University of Sheffield topology seminar, 2022.
 -  _Categorifying equivariant monoids_, Technische Universität Dresden, 2023.
--  _Reflections on Reflexive homology_, British Topology Meeting, Sheffield, 2023.
+-  _Reflections on reflexive homology_, British Topology Meeting, Sheffield, 2023.
 
 ## Service Work
 
