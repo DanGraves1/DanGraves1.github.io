@@ -95,6 +95,7 @@ Here is a list of conferences I have attended:
 -  _Categorifying equivariant monoids_, Technische Universität Dresden, 2023.
 -  _Reflections on reflexive homology_, British Topology Meeting, Sheffield, 2023.
 -  _Homology of generalized rook-Brauer algebras_, University of Sheffield topology seminar, 2023.
+-  _The homology of diagram algebras_, Pure Maths Colloquium, University of Sheffield, 2023.
 
 ## Service Work
 
