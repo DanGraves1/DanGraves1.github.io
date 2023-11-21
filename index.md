@@ -139,7 +139,8 @@ I enjoy taking part in seminars and reading groups. Here are some that I have be
 - _All Q'd up_, Condensed maths reading group, 2022.
 - _Spaces, condensed sets and condensed abelian groups_, Condensed maths reading group, 2022.
 - _From Algebraic Topology to Terrapin Station in three easy steps_, Sheaf seminar, Sheffield, 2022.
-- _Just another whistlestop (of stable homotopy theory)_, Telescope conjecture reading group, Sheffield, 2023.
+- _Just another whistlestop (of stable homotopy theory)_, Telescope conjecture reading group, 2023.
+- _The most tip top...TC!_, Telescope conjecture reading group, 2023.
 
 
 
