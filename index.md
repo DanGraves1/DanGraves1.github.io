@@ -33,6 +33,8 @@ _Functor homology for augmented algebras_. Available on the White Rose eTheses w
 
 - LLLC0203: Introduction to Physics. Lecturer.
 - LLLC0197: Introduction to Mathematics. Tutorial demonstrator.
+- LLLC0185: Waves and Particles. Lecturer.
+- LLLC0198: Introduction to Pure Mathematics. Tutorial demonstrator.
 
 ### University of Leeds (School of Mathematics, 2022-2023)
 
