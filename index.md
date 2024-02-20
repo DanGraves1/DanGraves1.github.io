@@ -14,13 +14,13 @@ Here a list of my publications and preprints. This information is also available
 3. _Composing PROBs_, Theory and Applications of Categories, Vol. 38, 2022, No. 26, pp 1050-1061. [Journal](http://www.tac.mta.ca/tac/volumes/38/26/38-26abs.html), [arXiv](https://arxiv.org/abs/2105.13166).
 4. _E-infinity structure in hyperoctahedral homology_, Homology, Homotopy and Applications, Vol. 25 (1), 2023, pp 1-19. [Journal](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0001/a001/index.php), [arXiv](https://arxiv.org/abs/2108.05154).
 5. _Reflexive homology_. [arXiv](https://arxiv.org/abs/2204.07985). To appear in Proceedings of the Royal Society of Edinburgh Section A: Mathematics.
+6. _Categorifying equivariant monoids_. [arXiv](https://arxiv.org/abs/2211.03076). Accepted for publication in Proceedings of the American Mathematical Society.
 
 ### Preprints
 
 1. _A comparison map for symmetric homology and gamma homology_. [arXiv](https://arxiv.org/abs/2005.07963).
-2. _Categorifying equivariant monoids_. [arXiv](https://arxiv.org/abs/2211.03076).
-3. _Generalized rook-Brauer algebras and their homology_. [arXiv](https://arxiv.org/abs/2310.06699).
-4. _Pirashvili--Richter-type theorems for the reflexive and dihedral homology theories_. [arXiv](https://arxiv.org/abs/2401.12884).
+2. _Generalized rook-Brauer algebras and their homology_. [arXiv](https://arxiv.org/abs/2310.06699).
+3. _Pirashvili--Richter-type theorems for the reflexive and dihedral homology theories_. [arXiv](https://arxiv.org/abs/2401.12884).
 
 ### Thesis
 _Functor homology for augmented algebras_. Available on the White Rose eTheses website [here](http://etheses.whiterose.ac.uk/26243/). Supervised by [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/).
