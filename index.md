@@ -51,8 +51,8 @@ _Functor homology for augmented algebras_. Available on the White Rose eTheses w
 ### University of Sheffield (SoMaS 2015-2022)
 Here is a list of my teaching at the University of Sheffield, in no particular order. The classes in list come in a range of flavours: lectures, problems classes, flipped learning classes, outreach classes and online assessment.
 
-- Lecturer for MAS003: Foundation mathematics. As part of my role as lecturer I developed a new set of lecture notes for part of the course as well as being responsible for the online tests using [STACK](https://moodle.org/plugins/qtype_stack). I have also acted as tutorial demonstrator for this module.
-- Lecturer for MAS248. This is a mathematics module for second year undergraduates in chemical engineering. As part of my role I set the exam and mark scheme for this course, with guidance from [Dr. Julia Rees](http://www.jrees.staff.shef.ac.uk/).
+- Lecturer for MAS003: Foundation mathematics. As part of my role as lecturer I developed a new set of lecture notes for part of the course as well as being responsible for the online tests using STACK. I have also acted as tutorial demonstrator for this module.
+- Lecturer for MAS248. This is a mathematics module for second year undergraduates in chemical engineering. 
 - MAS221: Analysis. I have been a tutorial demonstrator, marker and exam marker for this module. I have also delivered some lectures as cover. I have written and coded online tests for this module in both AiM (Assessment in Mathematics) and STACK.
 - MAS220: Algebra. Tutorial demonstrator and marker. I have also written and coded online tests in AiM for this module.
 - MAS114: Numbers and Groups. Tutorial demonstrator and marker.
@@ -99,6 +99,7 @@ Here is a list of conferences I have attended:
 -  _Reflections on reflexive homology_, British Topology Meeting, Sheffield, 2023.
 -  _Homology of generalized rook-Brauer algebras_, University of Sheffield topology seminar, 2023.
 -  _The homology of diagram algebras_, Pure Maths Colloquium, University of Sheffield, 2023.
+-  _A survey of crossed simplicial groups and their homology theories_, Algebraic Topology seminar, Universität Hamburg, 2024.
 
 ## Service Work
 
