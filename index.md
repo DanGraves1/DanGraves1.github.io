@@ -100,6 +100,7 @@ Here is a list of conferences I have attended:
 -  _Homology of generalized rook-Brauer algebras_, University of Sheffield topology seminar, 2023.
 -  _The homology of diagram algebras_, Pure Maths Colloquium, University of Sheffield, 2023.
 -  _A survey of crossed simplicial groups and their homology theories_, Algebraic Topology seminar, Universität Hamburg, 2024.
+-  _Reflexive homology and beyond_, Topology seminar, University of Warwick, 2024.
 
 ## Service Work
 
