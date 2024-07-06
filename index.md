@@ -70,6 +70,7 @@ I have co-organized two early career topology research conferences at the Univer
 
 1. EL:ECTRIC in 2017 with Gemma Halliwell, details of which can be found [here](http://alg-top.group.shef.ac.uk/conf.html).
 2. ECTR in 2019 with [Jordan Williamson](https://sites.google.com/view/jordanwilliamson/home), details of which can be found [here](http://alg-top.group.shef.ac.uk/ectr.html).
+3. In July 2024, Joao Faria Martins and I organized a meeting of the TTT in Leeds ([TTT120](https://sarah-whitehouse.sites.sheffield.ac.uk/transalpine-topology-tetrahedron/ttt120-leeds)).
 
 
 ### Attended
