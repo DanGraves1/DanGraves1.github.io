@@ -80,7 +80,7 @@ Here is a list of conferences I have attended:
 - ECSTATIC, Imperial College, 2016.
 - Young Topologists Meeting, Copenhagen 2016 and Stockholm 2017.
 - [US Talbot workshop](https://math.mit.edu/events/talbot/index.php?year=2017) on obstructruction theory for structured ring spectra, Gooding, Idaho, 2017.
-- British Topology Meeting, Milton Keynes 2018, Warwick 2019, Durham 2022, Sheffield 2023.
+- British Topology Meeting, Milton Keynes 2018, Warwick 2019, Durham 2022, Sheffield 2023, Aberdeen 2024.
 - Homotopy Harnessing Higher Structures, Isaac Newton Institute, Cambridge, 2018.
 - OATS (Online algebraic topology seminar), 2020.
 - Higher Homotopical Structures opening workshop (online), CRM, Barcelona, 2021.
@@ -102,6 +102,7 @@ Here is a list of conferences I have attended:
 -  _The homology of diagram algebras_, Pure Maths Colloquium, University of Sheffield, 2023.
 -  _A survey of crossed simplicial groups and their homology theories_, Algebraic Topology seminar, Universität Hamburg, 2024.
 -  _Reflexive homology and beyond_, Topology seminar, University of Warwick, 2024.
+-  _Cohomology of diagram algebras_, British Topology Meeting, ABerdeen, 2024.
 
 ## Service Work
 
