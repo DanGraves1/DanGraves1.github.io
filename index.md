@@ -13,8 +13,8 @@ Here a list of my publications and preprints. This information is also available
 2. _Hyperoctahedral homology for involutive algebras_, Homology, Homotopy and Applications, Vol. 24 (1), 2022, pp 1-26. [Journal](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0024/0001/a001/index.php), [arXiv](https://arxiv.org/abs/2011.03427).
 3. _Composing PROBs_, Theory and Applications of Categories, Vol. 38, 2022, No. 26, pp 1050-1061. [Journal](http://www.tac.mta.ca/tac/volumes/38/26/38-26abs.html), [arXiv](https://arxiv.org/abs/2105.13166).
 4. _E-infinity structure in hyperoctahedral homology_, Homology, Homotopy and Applications, Vol. 25 (1), 2023, pp 1-19. [Journal](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0001/a001/index.php), [arXiv](https://arxiv.org/abs/2108.05154).
-5. _Reflexive homology_. [arXiv](https://arxiv.org/abs/2204.07985). To appear in Proceedings of the Royal Society of Edinburgh Section A: Mathematics.
-6. _Categorifying equivariant monoids_. [arXiv](https://arxiv.org/abs/2211.03076). Accepted for publication in Proceedings of the American Mathematical Society.
+5. _Reflexive homology_, Proceedings of the Royal Society of Edinburgh Section A: Mathematics. [Journal](https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/reflexive-homology/FCF08BC0DE161AEB8282AF94F6FEBA83), [arXiv](https://arxiv.org/abs/2204.07985).
+6. _Categorifying equivariant monoids_, Proceedings of the American Mathematical Society, Volume 152, Pages 3689-3704. [Journal] (https://www.ams.org/journals/proc/2024-152-09/S0002-9939-2024-16832-5/?active=current), [arXiv](https://arxiv.org/abs/2211.03076). 
 
 ### Preprints
 
