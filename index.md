@@ -14,13 +14,13 @@ Here a list of my publications and preprints. This information is also available
 3. _Composing PROBs_, Theory and Applications of Categories, Vol. 38, 2022, No. 26, pp 1050-1061. [Journal](http://www.tac.mta.ca/tac/volumes/38/26/38-26abs.html), [arXiv](https://arxiv.org/abs/2105.13166).
 4. _E-infinity structure in hyperoctahedral homology_, Homology, Homotopy and Applications, Vol. 25 (1), 2023, pp 1-19. [Journal](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0001/a001/index.php), [arXiv](https://arxiv.org/abs/2108.05154).
 5. _Reflexive homology_, Proceedings of the Royal Society of Edinburgh Section A: Mathematics, 2024. [Journal](https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/reflexive-homology/FCF08BC0DE161AEB8282AF94F6FEBA83), [arXiv](https://arxiv.org/abs/2204.07985).
-6. _Categorifying equivariant monoids_, Proceedings of the American Mathematical Society, Volume 152, Pages 3689-3704, 2024. [Journal](https://www.ams.org/journals/proc/2024-152-09/S0002-9939-2024-16832-5/?active=current), [arXiv](https://arxiv.org/abs/2211.03076). 
+6. _Categorifying equivariant monoids_, Proceedings of the American Mathematical Society, Volume 152, Pages 3689-3704, 2024. [Journal](https://www.ams.org/journals/proc/2024-152-09/S0002-9939-2024-16832-5/?active=current), [arXiv](https://arxiv.org/abs/2211.03076).
+7. _Pirashvili--Richter-type theorems for the reflexive and dihedral homology theories_. [arXiv](https://arxiv.org/abs/2401.12884). To appear in Comptes Rendus Mathématique.
 
 ### Preprints
 
 1. _A comparison map for symmetric homology and gamma homology_. [arXiv](https://arxiv.org/abs/2005.07963).
 2. _Generalized rook-Brauer algebras and their homology_. [arXiv](https://arxiv.org/abs/2310.06699).
-3. _Pirashvili--Richter-type theorems for the reflexive and dihedral homology theories_. [arXiv](https://arxiv.org/abs/2401.12884).
 4. _Cohomology of Tanabe algebras_. Joint work with Andrew Fisher. [arXiv](https://arxiv.org/abs/2410.00599).
 
 ### Thesis
