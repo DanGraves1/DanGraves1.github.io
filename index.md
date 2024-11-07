@@ -104,6 +104,7 @@ Here is a list of conferences I have attended:
 -  _A survey of crossed simplicial groups and their homology theories_, Algebraic Topology seminar, Universität Hamburg, 2024.
 -  _Reflexive homology and beyond_, Topology seminar, University of Warwick, 2024.
 -  _Cohomology of diagram algebras_, British Topology Meeting, Aberdeen, 2024.
+-  _Groups with an oriented parity sign (or, why owning a thesaurus shouldn't be a prerequisite for studying equivariant Hochschild homology)_, University of Sheffield topology seminar, 2024.
 
 ## Service Work
 
