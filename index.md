@@ -21,7 +21,8 @@ Here a list of my publications and preprints. This information is also available
 
 1. _A comparison map for symmetric homology and gamma homology_. [arXiv](https://arxiv.org/abs/2005.07963).
 2. _Generalized rook-Brauer algebras and their homology_. [arXiv](https://arxiv.org/abs/2310.06699).
-4. _Cohomology of Tanabe algebras_. Joint work with Andrew Fisher. [arXiv](https://arxiv.org/abs/2410.00599).
+3. _Cohomology of Tanabe algebras_. Joint work with Andrew Fisher. [arXiv](https://arxiv.org/abs/2410.00599).
+4. _Cohomology of coloured partition algebras_. Joint work with James Cranch. [arXiv](https://arxiv.org/abs/2411.11776).
 
 ### Thesis
 _Functor homology for augmented algebras_. Available on the White Rose eTheses website [here](http://etheses.whiterose.ac.uk/26243/). Supervised by [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/).
