@@ -90,6 +90,7 @@ Here is a list of conferences I have attended:
 - Higher Homotopical Structures opening workshop (online), CRM, Barcelona, 2021.
 - TopFlavours, Warwick, 2021.
 - A Festival Remembering Victor Snaith: Topology, Number Theory and Interactions, 2023.
+- _Equivariant homotopy theory in context_, Introductory workshop and research visit, INI, Cambridge, 2025. 
 
 ### Research talks
 
@@ -108,6 +109,7 @@ Here is a list of conferences I have attended:
 -  _Reflexive homology and beyond_, Topology seminar, University of Warwick, 2024.
 -  _Cohomology of diagram algebras_, British Topology Meeting, Aberdeen, 2024.
 -  _Groups with an oriented parity sign (or, why owning a thesaurus shouldn't be a prerequisite for studying equivariant Hochschild homology)_, University of Sheffield topology seminar, 2024.
+-  _Who put the fun in functor homology?_, Equivariant homotopy theory in context, INI, 2025.
 
 ## Service Work
 
