@@ -15,7 +15,7 @@ Here a list of my publications and preprints. This information is also available
 4. _E-infinity structure in hyperoctahedral homology_, Homology, Homotopy and Applications, Vol. 25 (1), 2023, pp 1-19. [Journal](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0001/a001/index.php), [arXiv](https://arxiv.org/abs/2108.05154).
 5. _Reflexive homology_, Proceedings of the Royal Society of Edinburgh Section A: Mathematics, 2024. [Journal](https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/reflexive-homology/FCF08BC0DE161AEB8282AF94F6FEBA83), [arXiv](https://arxiv.org/abs/2204.07985).
 6. _Categorifying equivariant monoids_, Proceedings of the American Mathematical Society, Volume 152, Pages 3689-3704, 2024. [Journal](https://www.ams.org/journals/proc/2024-152-09/S0002-9939-2024-16832-5/?active=current), [arXiv](https://arxiv.org/abs/2211.03076).
-7. _Pirashvili--Richter-type theorems for the reflexive and dihedral homology theories_. [arXiv](https://arxiv.org/abs/2401.12884). To appear in Comptes Rendus Mathématique.
+7. _Pirashvili--Richter-type theorems for the reflexive and dihedral homology theories_, Comptes Rendus Mathématique, Volume 363, Pages 43-55, 2025. [Journal](https://comptes-rendus.academie-sciences.fr/mathematique/item/10.5802/crmath.698.pdf), [arXiv](https://arxiv.org/abs/2401.12884).
 
 ### Preprints
 
