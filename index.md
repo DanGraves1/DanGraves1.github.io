@@ -34,6 +34,7 @@ _Functor homology for augmented algebras_. Available on the White Rose eTheses w
 
 ### University of Leeds (Lifelong Learning Centre, 2023-)
 
+- LLLC0211: Introduction to Mathematics and Statistics for Business. Lecturer.
 - LLLC0203: Introduction to Physics. Lecturer.
 - LLLC0197: Introduction to Mathematics. Tutorial demonstrator.
 - LLLC0185: Waves and Particles. Lecturer.
