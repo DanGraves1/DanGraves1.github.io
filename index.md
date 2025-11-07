@@ -111,6 +111,7 @@ Here is a list of conferences I have attended:
 -  _Cohomology of diagram algebras_, British Topology Meeting, Aberdeen, 2024.
 -  _Groups with an oriented parity sign (or, why owning a thesaurus shouldn't be a prerequisite for studying equivariant Hochschild homology)_, University of Sheffield topology seminar, 2024.
 -  _Who put the fun in functor homology?_, Equivariant homotopy theory in context, Gong Show, INI, 2025.
+-  _A brief history of the Temperley-Lieb algebras_, Universtity of Sheffield topology seminar, 2025.
 
 ## Service Work
 
