@@ -16,14 +16,14 @@ Here a list of my publications and preprints. This information is also available
 5. _Reflexive homology_, Proceedings of the Royal Society of Edinburgh Section A: Mathematics, 154(5):1378-1405, 2024. [Journal](https://www.cambridge.org/core/journals/proceedings-of-the-royal-society-of-edinburgh-section-a-mathematics/article/reflexive-homology/FCF08BC0DE161AEB8282AF94F6FEBA83), [arXiv](https://arxiv.org/abs/2204.07985).
 6. _Categorifying equivariant monoids_, Proceedings of the American Mathematical Society, Volume 152, Pages 3689-3704, 2024. [Journal](https://www.ams.org/journals/proc/2024-152-09/S0002-9939-2024-16832-5/?active=current), [arXiv](https://arxiv.org/abs/2211.03076).
 7. _Pirashvili--Richter-type theorems for the reflexive and dihedral homology theories_, Comptes Rendus Mathématique, Volume 363, Pages 43-55, 2025. [Journal](https://comptes-rendus.academie-sciences.fr/mathematique/item/10.5802/crmath.698.pdf), [arXiv](https://arxiv.org/abs/2401.12884).
+8. _Cohomology of Tanabe algebras_. Joint work with Andrew Fisher. Accepted for publication in Extracta Mathematicae. [arXiv](https://arxiv.org/abs/2410.00599).
 
 ### Preprints
 
 1. _A comparison map for symmetric homology and gamma homology_. [arXiv](https://arxiv.org/abs/2005.07963).
 2. _Generalized rook-Brauer algebras and their homology_. [arXiv](https://arxiv.org/abs/2310.06699).
-3. _Cohomology of Tanabe algebras_. Joint work with Andrew Fisher. [arXiv](https://arxiv.org/abs/2410.00599).
-4. _Cohomology of coloured partition algebras_. Joint work with James Cranch. [arXiv](https://arxiv.org/abs/2411.11776).
-5. _Cohomology of diagram algebras_. Joint work with Andrew Fisher. [arXiv](https://arxiv.org/abs/2412.14887).
+3. _Cohomology of coloured partition algebras_. Joint work with James Cranch. [arXiv](https://arxiv.org/abs/2411.11776).
+4. _Cohomology of diagram algebras_. Joint work with Andrew Fisher. [arXiv](https://arxiv.org/abs/2412.14887).
 
 ### Thesis
 _Functor homology for augmented algebras_. Available on the White Rose eTheses website [here](http://etheses.whiterose.ac.uk/26243/). Supervised by [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/).
