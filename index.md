@@ -17,6 +17,7 @@ Here a list of my publications and preprints. This information is also available
 6. _Categorifying equivariant monoids_, Proceedings of the American Mathematical Society, Volume 152, Pages 3689-3704, 2024. [Journal](https://www.ams.org/journals/proc/2024-152-09/S0002-9939-2024-16832-5/?active=current), [arXiv](https://arxiv.org/abs/2211.03076).
 7. _Pirashvili--Richter-type theorems for the reflexive and dihedral homology theories_, Comptes Rendus Mathématique, Volume 363, Pages 43-55, 2025. [Journal](https://comptes-rendus.academie-sciences.fr/mathematique/item/10.5802/crmath.698.pdf), [arXiv](https://arxiv.org/abs/2401.12884).
 8. _Cohomology of Tanabe algebras_. Joint work with Andrew Fisher. Extracta Mathematicae, Vol. 40 No. 2, Pages 235-252, 2025. [Journal](https://revista-em.unex.es/index.php/EM/article/view/2385), [arXiv](https://arxiv.org/abs/2410.00599).
+9. _Cohomology of dilute Temperley--Lieb algebras_. Joint work with Andrew Fisher. Accepted for publication in Canadian Mathematical Bulletin.
 
 ### Preprints
 
