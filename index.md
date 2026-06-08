@@ -19,6 +19,7 @@ Here a list of my publications and preprints. This information is also available
 8. _Cohomology of Tanabe algebras_. Joint work with Andrew Fisher. Extracta Mathematicae, Vol. 40 No. 2, Pages 235-252, 2025. [Journal](https://revista-em.unex.es/index.php/EM/article/view/2385), [arXiv](https://arxiv.org/abs/2410.00599).
 9. _Cohomology of dilute Temperley--Lieb algebras_. Joint work with Andrew Fisher. Accepted for publication in Canadian Mathematical Bulletin. [Journal](https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/cohomology-of-dilute-temperleylieb-algebras/C4E635DBB562D1C3AC349D390A792B1E), [arXiv](https://arxiv.org/abs/2603.18704).
 10. _Cohomology of coloured partition algebras_. Joint work with James Cranch. Accepted for publication in Homology, Homotopy and Applications. [arXiv](https://arxiv.org/abs/2411.11776).
+11. _Cohomology of rook-Brauer algebras and their subalgebras_. Joint work with Andrew Fisher. Accepted for publication in New York Journal of Mathematics.
 
 ### Preprints
 
