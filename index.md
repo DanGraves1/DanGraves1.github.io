@@ -26,7 +26,7 @@ Here a list of my publications and preprints. This information is also available
 
 1. _A comparison map for symmetric homology and gamma homology_. [arXiv](https://arxiv.org/abs/2005.07963).
 2. _Generalized rook-Brauer algebras and their homology_. [arXiv](https://arxiv.org/abs/2310.06699).
-3. _Cohomology of diagram algebras_. Joint work with Andrew Fisher. [arXiv](https://arxiv.org/abs/2412.14887).
+
 
 ### Thesis
 _Functor homology for augmented algebras_. Available on the White Rose eTheses website [here](http://etheses.whiterose.ac.uk/26243/). Supervised by [Sarah Whitehouse](http://www.sarah-whitehouse.staff.shef.ac.uk/).
